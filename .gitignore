@@ -12,3 +12,29 @@ deploy/package.ini
 # we don't commit pre-compiled linux libraries since it's way easier to compile
 # ffmpeg on linux compared to windows
 ffmpeg/lib_lin*/
+/.vs/ProjectSettings.json
+/.vs/RP-Soundboard-zh-CN/FileContentIndex
+/.vs/RP-Soundboard-zh-CN/FileContentIndex/6984dadc-835f-4666-a8a0-da3c54f7d187.vsidx
+/.vs/RP-Soundboard-zh-CN/FileContentIndex/73283f59-df32-40c1-a1a7-5ccd296f8dc1.vsidx
+/.vs/RP-Soundboard-zh-CN/FileContentIndex/8a0d5705-f49c-4a6d-b424-e3bd6fe97976.vsidx
+/.vs/RP-Soundboard-zh-CN/FileContentIndex/974c730b-39dd-4fc2-84b9-285f2094de0c.vsidx
+/.vs/RP-Soundboard-zh-CN/FileContentIndex/9cfe9516-791f-41af-8498-52927faf0370.vsidx
+/.vs/RP-Soundboard-zh-CN/v17
+/.vs/RP-Soundboard-zh-CN/v17/.wsuo
+/.vs/RP-Soundboard-zh-CN/v17/Browse.VC.db
+/.vs/RP-Soundboard-zh-CN/v17/Browse.VC.db-shm
+/.vs/RP-Soundboard-zh-CN/v17/Browse.VC.db-wal
+/.vs/RP-Soundboard-zh-CN/v17/Browse.VC.opendb
+/.vs/RP-Soundboard-zh-CN/v17/DocumentLayout.json
+/.vs/RP-Soundboard-zh-CN/v17/ipch/AutoPCH
+/.vs/RP-Soundboard-zh-CN/v17/ipch/AutoPCH/23d66262f4e0b60c
+/.vs/RP-Soundboard-zh-CN/v17/ipch/AutoPCH/23d66262f4e0b60c/SOUNDSETTINGS_QT.ipch
+/.vs/RP-Soundboard-zh-CN/v17/ipch/AutoPCH/88325568a2a31991
+/.vs/RP-Soundboard-zh-CN/v17/ipch/AutoPCH/88325568a2a31991/PLUGIN.ipch
+/.vs/RP-Soundboard-zh-CN/v17/ipch/AutoPCH/c93f1df3a01dac2
+/.vs/RP-Soundboard-zh-CN/v17/ipch/AutoPCH/c93f1df3a01dac2/CONFIG_QT.ipch
+/.vs/RP-Soundboard-zh-CN/v17/ipch/AutoPCH/e50a607e07bbc3a0
+/.vs/RP-Soundboard-zh-CN/v17/ipch/AutoPCH/e50a607e07bbc3a0/SOUNDVIEW_QT.ipch
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs
